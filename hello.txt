@@ -1,0 +1,5 @@
+Hello from the sandbox!
+
+这个文件是通过 SSH（git@github.com:ckwgjnoomx/demo.git）推送上去的。
+推送时间：2026-11-15
+验证点：SSH 公钥认证已完全打通。
